@@ -163,4 +163,4 @@ cython_debug/
 
 #Folders
 ./DS_Store
-./udemy_resources
+udemy_resources/
