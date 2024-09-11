@@ -18,7 +18,7 @@ For the sentiment analysis, using TextBlob, I only considerer the high positive 
 <br>
 The most common words for each were:<br>
 High Positive<br>
-- 
+![High Positive Words](images/positive.png "a title")
 
 High Negative<br>
 ![High Negative Words](images/negative.png "a title")
