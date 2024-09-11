@@ -18,9 +18,11 @@ For the sentiment analysis, using TextBlob, I only considerer the high positive 
 <br>
 The most common words for each were:<br>
 High Positive<br>
+![High Positive Words](images/positive.png "a title")<br>
 
+High Negative<br>
+![High Negative Words](images/negative.png "a title")
 
-![High Positive Words](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 
 ## Emoji Analysis
 
