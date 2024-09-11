@@ -21,7 +21,7 @@ High Positive<br>
 - 
 
 High Negative<br>
-
+![High Negative Words](images/negative.png "a title")
 
 
 ## Emoji Analysis
